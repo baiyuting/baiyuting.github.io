@@ -1,5 +1,4 @@
 ## baiyuting个人主页
-baiyuting
 
 ### 基本情况
 
